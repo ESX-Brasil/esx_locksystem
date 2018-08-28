@@ -1,4 +1,4 @@
---  Vehicle object manager - Client side
+---  Vehicle object manager - Client side
 
 function newVehicle()
     local self = {}
