@@ -1,4 +1,4 @@
---  Main algorithm with all functions and events - Client side
+---  Main algorithm with all functions and events - Client side
 
 ----
 -- @var vehicles[plate_number] = newVehicle Object
