@@ -1,12 +1,3 @@
-----------------------
--- Author : Deediezi
--- Version 3.0
---
--- Contributors : No contributors at the moment.
---
--- Github link : https://github.com/Deediezi/FiveM_LockSystem
--- You can contribute to the project. All the information is on Github.
-
 --  Main algorithm with all functions and events - Client side
 
 ----
