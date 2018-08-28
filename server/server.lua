@@ -1,4 +1,4 @@
---  Server side
+---  Server side
 
 owners = {} -- owners[plate] = identifier
 secondOwners = {} -- secondOwners[plate] = {identifier, identifier, ...}
